@@ -17,7 +17,6 @@ public class BumperController : MonoBehaviour
         animator = GetComponent<Animator>();
 
         renderer.material.color = color;
-
     }
 
     private void OnCollisionEnter(Collision collision)
