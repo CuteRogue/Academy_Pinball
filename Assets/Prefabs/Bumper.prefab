@@ -111,8 +111,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bola: {fileID: 0}
-  multiplier: 3
+  multiplier: 2
   color: {r: 1, g: 0.11792451, b: 0.11792451, a: 0}
+  audioManager: {fileID: 0}
 --- !u!95 &7029601046203790064
 Animator:
   serializedVersion: 3
