@@ -1905,7 +1905,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   returnTime: 1
-  followSpeed: 1
+  followSpeed: 3
   length: 0
   target: {fileID: 0}
 --- !u!1 &965618801

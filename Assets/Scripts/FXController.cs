@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FXAudioController : MonoBehaviour
+public class FXController : MonoBehaviour
 {
     void Start()
     {
